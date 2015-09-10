@@ -54,6 +54,6 @@ deploy:
   skip_cleanup: true
   strategy: api
   buildpack: https://github.com/ddollar/heroku-buildpack-multi
-  app: intense-forest-7815
+  app:  polar-bayou-9554
   on:
     php: 5.5
